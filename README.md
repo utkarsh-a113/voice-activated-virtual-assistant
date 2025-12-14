@@ -5,7 +5,7 @@ voice-activated virtual assistant designed to perform tasks such as web browsing
 • pyttsx3
 • musicLibrary
 • requests
-• openai
+• gemini 2.5
 • gTTS
 • pygame
 • os
